@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryansoni25/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/2235-add-two-integers) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryansoni25/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
@@ -114,8 +115,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
