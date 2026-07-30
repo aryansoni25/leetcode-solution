@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryansoni25/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/2235-add-two-integers) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
@@ -123,5 +125,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
