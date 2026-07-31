@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aryansoni25/leetcode-solution/tree/master/0238-product-of-array-except-self) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
