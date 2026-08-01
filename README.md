@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/aryansoni25/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/2679-sum-in-a-matrix) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -77,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
 | ------- |
@@ -138,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
