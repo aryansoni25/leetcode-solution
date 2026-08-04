@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [2390-removing-stars-from-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/aryansoni25/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0088-merge-sorted-array) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/aryansoni25/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/aryansoni25/leetcode-solution/tree/master/0141-linked-list-cycle) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0198-house-robber](https://github.com/aryansoni25/leetcode-solution/tree/master/0198-house-robber) |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
@@ -191,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
