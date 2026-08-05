@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/aryansoni25/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aryansoni25/leetcode-solution/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -173,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
