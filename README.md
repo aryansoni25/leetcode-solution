@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1929-concatenation-of-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2679-sum-in-a-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/2679-sum-in-a-matrix) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/aryansoni25/leetcode-solution/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
