@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 ## Knapsack Problem
 |  |
 | ------- |
@@ -280,4 +283,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/aryansoni25/leetcode-solution/tree/master/1510-stone-game-iv) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
