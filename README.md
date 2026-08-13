@@ -108,12 +108,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
+| [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 ## Hash Table
 |  |
 | ------- |
