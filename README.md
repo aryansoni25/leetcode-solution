@@ -308,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+## Database
+|  |
+| ------- |
+| [0183-customers-who-never-order](https://github.com/aryansoni25/leetcode-solution/tree/master/0183-customers-who-never-order) |
 <!---LeetCode Topics End-->
