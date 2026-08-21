@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1929-concatenation-of-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 | [2679-sum-in-a-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/2679-sum-in-a-matrix) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryansoni25/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0867-transpose-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0973-k-closest-points-to-origin](https://github.com/aryansoni25/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1046-last-stone-weight](https://github.com/aryansoni25/leetcode-solution/tree/master/1046-last-stone-weight) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0867-transpose-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [2679-sum-in-a-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/2679-sum-in-a-matrix) |
 ## Sorting
 |  |
