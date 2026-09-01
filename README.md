@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aryansoni25/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 | [0973-k-closest-points-to-origin](https://github.com/aryansoni25/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aryansoni25/leetcode-solution/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aryansoni25/leetcode-solution/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/aryansoni25/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
