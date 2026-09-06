@@ -15,9 +15,9 @@
  */
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> ans=new ArrayList<>();
-        dfs(root,0,ans);
-        return ans;
+        List<List<Integer>> a=new ArrayList<>();
+        dfs(root,0,a);
+        return a;
     }
     private void dfs(TreeNode node,int level,List<List<Integer>> ans){
         if(node==null)
