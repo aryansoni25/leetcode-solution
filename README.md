@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2390-removing-stars-from-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -133,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
+| [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 ## Two Pointers
 |  |
 | ------- |
