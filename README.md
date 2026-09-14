@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aryansoni25/leetcode-solution/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/aryansoni25/leetcode-solution/tree/master/0238-product-of-array-except-self) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/aryansoni25/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/aryansoni25/leetcode-solution/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aryansoni25/leetcode-solution/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryansoni25/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aryansoni25/leetcode-solution/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
@@ -390,4 +394,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/aryansoni25/leetcode-solution/tree/master/0841-keys-and-rooms) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
