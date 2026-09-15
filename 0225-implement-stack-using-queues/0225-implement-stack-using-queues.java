@@ -4,8 +4,8 @@ class MyStack {
         q=new LinkedList<>();
     }
     
-    public void push(int x) {
-        q.add(x);
+    public void push(int a) {
+        q.add(a);
         for(int i=0;i<q.size()-1;i++){
             q.add(q.remove());
         }
