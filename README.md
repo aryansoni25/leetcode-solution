@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/aryansoni25/leetcode-solution/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
@@ -386,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 ## Graph Theory
