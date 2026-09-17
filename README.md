@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansoni25/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansoni25/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -219,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/aryansoni25/leetcode-solution/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0226-invert-binary-tree) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
