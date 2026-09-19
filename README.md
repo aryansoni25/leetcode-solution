@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/aryansoni25/leetcode-solution/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0973-k-closest-points-to-origin](https://github.com/aryansoni25/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/aryansoni25/leetcode-solution/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/aryansoni25/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aryansoni25/leetcode-solution/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/aryansoni25/leetcode-solution/tree/master/0841-keys-and-rooms) |
 ## Hash Table
 |  |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aryansoni25/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1510-stone-game-iv](https://github.com/aryansoni25/leetcode-solution/tree/master/1510-stone-game-iv) |
 ## Design
 |  |
@@ -409,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aryansoni25/leetcode-solution/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/aryansoni25/leetcode-solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/aryansoni25/leetcode-solution/tree/master/0684-redundant-connection) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0841-keys-and-rooms](https://github.com/aryansoni25/leetcode-solution/tree/master/0841-keys-and-rooms) |
 | [1584-min-cost-to-connect-all-points](https://github.com/aryansoni25/leetcode-solution/tree/master/1584-min-cost-to-connect-all-points) |
 ## Primality Test
@@ -447,4 +452,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aryansoni25/leetcode-solution/tree/master/0207-course-schedule) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
