@@ -2,7 +2,6 @@ import java.util.*;
 
 class Solution {
     public boolean canFinish(int numCourses, int[][] prerequisites) {
-        // adjacency list
         List<List<Integer>> g = new ArrayList<>();
         for (int i = 0; i < numCourses; i++) {
             g.add(new ArrayList<>());
