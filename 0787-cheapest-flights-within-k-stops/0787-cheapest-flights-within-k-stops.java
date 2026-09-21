@@ -8,12 +8,12 @@ class Solution {
         for(int[] flight:flights){
             int from=flight[0];
             int to=flight[1];
-            int price=flight[2];
+            int prices=flight[2];
 
             if(cost[from]==Integer.MAX_VALUE){
                 continue;
             }
-            int newCost=cost[from]+price;
+            int newCost=cost[from]+prices;
             if(newCost<temp[to]){
                 temp[to]=newCost;
             }
