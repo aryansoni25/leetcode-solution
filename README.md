@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
+| [0278-first-bad-version](https://github.com/aryansoni25/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -458,4 +459,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/aryansoni25/leetcode-solution/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
