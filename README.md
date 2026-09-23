@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0215-kth-largest-element-in-an-array) |
+| [0219-contains-duplicate-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/aryansoni25/leetcode-solution/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/aryansoni25/leetcode-solution/tree/master/0283-move-zeroes) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -463,4 +465,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/aryansoni25/leetcode-solution/tree/master/0278-first-bad-version) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
