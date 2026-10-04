@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
@@ -506,4 +508,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/aryansoni25/leetcode-solution/tree/master/0881-boats-to-save-people) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
