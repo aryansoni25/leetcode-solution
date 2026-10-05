@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0796-rotate-string) |
+| [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0022-generate-parentheses) |
+| [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
