@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/aryansoni25/leetcode-solution/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/aryansoni25/leetcode-solution/tree/master/1929-concatenation-of-array) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/aryansoni25/leetcode-solution/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/aryansoni25/leetcode-solution/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aryansoni25/leetcode-solution/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0202-happy-number) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/aryansoni25/leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
