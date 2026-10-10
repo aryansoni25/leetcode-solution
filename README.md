@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/aryansoni25/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0796-rotate-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0796-rotate-string) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/aryansoni25/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/aryansoni25/leetcode-solution/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/aryansoni25/leetcode-solution/tree/master/0066-plus-one) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/aryansoni25/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/aryansoni25/leetcode-solution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/aryansoni25/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/aryansoni25/leetcode-solution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/aryansoni25/leetcode-solution/tree/master/0160-intersection-of-two-linked-lists) |
