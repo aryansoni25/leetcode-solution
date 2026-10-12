@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aryansoni25/leetcode-solution/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0796-rotate-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/aryansoni25/leetcode-solution/tree/master/3483-unique-3-digit-even-numbers) |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
+| [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
@@ -530,4 +533,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
