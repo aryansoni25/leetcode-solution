@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aryansoni25/leetcode-solution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -399,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/aryansoni25/leetcode-solution/tree/master/0055-jump-game) |
 | [0881-boats-to-save-people](https://github.com/aryansoni25/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [2029-stone-game-ix](https://github.com/aryansoni25/leetcode-solution/tree/master/2029-stone-game-ix) |
