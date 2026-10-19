@@ -1,5 +1,5 @@
 class Solution {
-    public int minEatingSpeed(int[] piles, int h) {
+    public int minEatingSpeed(int[] piles, int ha) {
         int low=1;
         int high=0;
         for(int pile:piles){
@@ -11,7 +11,7 @@ class Solution {
             for(int pile:piles){
                 hours+=(mid+pile-1)/mid;
             }
-            if(hours<=h){
+            if(hours<=ha){
                 high=mid;
             }else{
                 low=mid+1;
