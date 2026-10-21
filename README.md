@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0796-rotate-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [0981-time-based-key-value-store](https://github.com/aryansoni25/leetcode-solution/tree/master/0981-time-based-key-value-store) |
 | [1021-remove-outermost-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/aryansoni25/leetcode-solution/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aryansoni25/leetcode-solution/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/aryansoni25/leetcode-solution/tree/master/0981-time-based-key-value-store) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
+| [0981-time-based-key-value-store](https://github.com/aryansoni25/leetcode-solution/tree/master/0981-time-based-key-value-store) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryansoni25/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aryansoni25/leetcode-solution/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0981-time-based-key-value-store](https://github.com/aryansoni25/leetcode-solution/tree/master/0981-time-based-key-value-store) |
 ## Data Stream
 |  |
 | ------- |
