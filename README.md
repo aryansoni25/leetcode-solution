@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryansoni25/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/aryansoni25/leetcode-solution/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/aryansoni25/leetcode-solution/tree/master/0015-3sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryansoni25/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryansoni25/leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/aryansoni25/leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
