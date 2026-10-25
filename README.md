@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/aryansoni25/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aryansoni25/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/aryansoni25/leetcode-solution/tree/master/0295-find-median-from-data-stream) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
