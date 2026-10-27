@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansoni25/leetcode-solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryansoni25/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryansoni25/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryansoni25/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/aryansoni25/leetcode-solution/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/aryansoni25/leetcode-solution/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/aryansoni25/leetcode-solution/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/aryansoni25/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/aryansoni25/leetcode-solution/tree/master/0204-count-primes) |
