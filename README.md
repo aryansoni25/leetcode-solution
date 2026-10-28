@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/aryansoni25/leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/aryansoni25/leetcode-solution/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aryansoni25/leetcode-solution/tree/master/0225-implement-stack-using-queues) |
+| [0739-daily-temperatures](https://github.com/aryansoni25/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/0856-score-of-parentheses) |
 | [0897-increasing-order-search-tree](https://github.com/aryansoni25/leetcode-solution/tree/master/0897-increasing-order-search-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/aryansoni25/leetcode-solution/tree/master/1021-remove-outermost-parentheses) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/aryansoni25/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/aryansoni25/leetcode-solution/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/aryansoni25/leetcode-solution/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/aryansoni25/leetcode-solution/tree/master/0881-boats-to-save-people) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aryansoni25/leetcode-solution/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/aryansoni25/leetcode-solution/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
