@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/aryansoni25/leetcode-solution/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/aryansoni25/leetcode-solution/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/aryansoni25/leetcode-solution/tree/master/0342-power-of-four) |
 ## Quickselect
 |  |
@@ -381,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/aryansoni25/leetcode-solution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0198-house-robber](https://github.com/aryansoni25/leetcode-solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0213-house-robber-ii) |
+| [0338-counting-bits](https://github.com/aryansoni25/leetcode-solution/tree/master/0338-counting-bits) |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/aryansoni25/leetcode-solution/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1510-stone-game-iv](https://github.com/aryansoni25/leetcode-solution/tree/master/1510-stone-game-iv) |
