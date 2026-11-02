@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0414-third-maximum-number) |
 | [0518-coin-change-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0518-coin-change-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aryansoni25/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 | [0733-flood-fill](https://github.com/aryansoni25/leetcode-solution/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/aryansoni25/leetcode-solution/tree/master/0739-daily-temperatures) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/aryansoni25/leetcode-solution/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/aryansoni25/leetcode-solution/tree/master/0414-third-maximum-number) |
+| [0594-longest-harmonious-subsequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0881-boats-to-save-people](https://github.com/aryansoni25/leetcode-solution/tree/master/0881-boats-to-save-people) |
 | [0973-k-closest-points-to-origin](https://github.com/aryansoni25/leetcode-solution/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/aryansoni25/leetcode-solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0535-encode-and-decode-tinyurl](https://github.com/aryansoni25/leetcode-solution/tree/master/0535-encode-and-decode-tinyurl) |
+| [0594-longest-harmonious-subsequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0981-time-based-key-value-store](https://github.com/aryansoni25/leetcode-solution/tree/master/0981-time-based-key-value-store) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/aryansoni25/leetcode-solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/aryansoni25/leetcode-solution/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aryansoni25/leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/aryansoni25/leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [2029-stone-game-ix](https://github.com/aryansoni25/leetcode-solution/tree/master/2029-stone-game-ix) |
 ## Knapsack Problem
 |  |
@@ -557,6 +561,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/aryansoni25/leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/aryansoni25/leetcode-solution/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/aryansoni25/leetcode-solution/tree/master/0643-maximum-average-subarray-i) |
 ## Bracket Sequences
 |  |
